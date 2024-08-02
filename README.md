@@ -50,8 +50,8 @@ In this package:
 - `fill` is optional; the default color is `black`.
 
 **For Thin Icons (24px):**
-- `width` is optional; the default size is `24px`.
-- `height` is optional; the default size is `24px`.
+- `width` is optional; the default size is `16px`.
+- `height` is optional; the default size is `16px`.
 - `fill` is optional; the default color is `black`.
 
 ### Finding Icon Names
